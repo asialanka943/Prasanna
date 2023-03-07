@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals - Lasith	
+# CodingNomads Java Fundamentals - Lasith   Dokomo	
 
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
